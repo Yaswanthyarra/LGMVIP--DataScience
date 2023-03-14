@@ -1,2 +1,2 @@
 # LGMVIP--DataScience
-Tasks performed under LGM data science internship.
+<h6>The Repository contains the tasks that I had completed in DataScience virtual internship at Let's Grow More.</h6>
